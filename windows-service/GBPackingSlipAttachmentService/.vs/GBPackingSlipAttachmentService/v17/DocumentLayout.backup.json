@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\GehanVelivitiya\\source\\repos\\GBPackingSlipAttachmentService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E229FD-CA6D-4C5B-868A-3A61CE033FEF}|GBPackingSlipAttachmentService\\GBPackingSlipAttachmentService.csproj|C:\\Users\\GehanVelivitiya\\source\\repos\\GBPackingSlipAttachmentService\\gbpackingslipattachmentservice\\utilities\\credentialmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1E229FD-CA6D-4C5B-868A-3A61CE033FEF}|GBPackingSlipAttachmentService\\GBPackingSlipAttachmentService.csproj|solutionrelative:gbpackingslipattachmentservice\\utilities\\credentialmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E229FD-CA6D-4C5B-868A-3A61CE033FEF}|GBPackingSlipAttachmentService\\GBPackingSlipAttachmentService.csproj|C:\\Users\\GehanVelivitiya\\source\\repos\\GBPackingSlipAttachmentService\\gbpackingslipattachmentservice\\services\\ifsmediaattachmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1E229FD-CA6D-4C5B-868A-3A61CE033FEF}|GBPackingSlipAttachmentService\\GBPackingSlipAttachmentService.csproj|solutionrelative:gbpackingslipattachmentservice\\services\\ifsmediaattachmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E229FD-CA6D-4C5B-868A-3A61CE033FEF}|GBPackingSlipAttachmentService\\GBPackingSlipAttachmentService.csproj|C:\\Users\\GehanVelivitiya\\source\\repos\\GBPackingSlipAttachmentService\\gbpackingslipattachmentservice\\projectinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C1E229FD-CA6D-4C5B-868A-3A61CE033FEF}|GBPackingSlipAttachmentService\\GBPackingSlipAttachmentService.csproj|solutionrelative:gbpackingslipattachmentservice\\projectinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E229FD-CA6D-4C5B-868A-3A61CE033FEF}|GBPackingSlipAttachmentService\\GBPackingSlipAttachmentService.csproj|c:\\users\\gehanvelivitiya\\source\\repos\\gbpackingslipattachmentservice\\gbpackingslipattachmentservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C1E229FD-CA6D-4C5B-868A-3A61CE033FEF}|GBPackingSlipAttachmentService\\GBPackingSlipAttachmentService.csproj|solutionrelative:gbpackingslipattachmentservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E229FD-CA6D-4C5B-868A-3A61CE033FEF}|GBPackingSlipAttachmentService\\GBPackingSlipAttachmentService.csproj|C:\\Users\\GehanVelivitiya\\source\\repos\\GBPackingSlipAttachmentService\\gbpackingslipattachmentservice\\gbwindowsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1E229FD-CA6D-4C5B-868A-3A61CE033FEF}|GBPackingSlipAttachmentService\\GBPackingSlipAttachmentService.csproj|solutionrelative:gbpackingslipattachmentservice\\gbwindowsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E229FD-CA6D-4C5B-868A-3A61CE033FEF}|GBPackingSlipAttachmentService\\GBPackingSlipAttachmentService.csproj|C:\\Users\\GehanVelivitiya\\source\\repos\\GBPackingSlipAttachmentService\\gbpackingslipattachmentservice\\services\\ifsauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1E229FD-CA6D-4C5B-868A-3A61CE033FEF}|GBPackingSlipAttachmentService\\GBPackingSlipAttachmentService.csproj|solutionrelative:gbpackingslipattachmentservice\\services\\ifsauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E229FD-CA6D-4C5B-868A-3A61CE033FEF}|GBPackingSlipAttachmentService\\GBPackingSlipAttachmentService.csproj|C:\\Users\\GehanVelivitiya\\source\\repos\\GBPackingSlipAttachmentService\\gbpackingslipattachmentservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1E229FD-CA6D-4C5B-868A-3A61CE033FEF}|GBPackingSlipAttachmentService\\GBPackingSlipAttachmentService.csproj|solutionrelative:gbpackingslipattachmentservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E229FD-CA6D-4C5B-868A-3A61CE033FEF}|GBPackingSlipAttachmentService\\GBPackingSlipAttachmentService.csproj|C:\\Users\\GehanVelivitiya\\source\\repos\\GBPackingSlipAttachmentService\\gbpackingslipattachmentservice\\utilities\\icredentialmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1E229FD-CA6D-4C5B-868A-3A61CE033FEF}|GBPackingSlipAttachmentService\\GBPackingSlipAttachmentService.csproj|solutionrelative:gbpackingslipattachmentservice\\utilities\\icredentialmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CredentialManager.cs",
+              "DocumentMoniker": "C:\\Users\\GehanVelivitiya\\source\\repos\\GBPackingSlipAttachmentService\\GBPackingSlipAttachmentService\\Utilities\\CredentialManager.cs",
+              "RelativeDocumentMoniker": "GBPackingSlipAttachmentService\\Utilities\\CredentialManager.cs",
+              "ToolTip": "C:\\Users\\GehanVelivitiya\\source\\repos\\GBPackingSlipAttachmentService\\GBPackingSlipAttachmentService\\Utilities\\CredentialManager.cs",
+              "RelativeToolTip": "GBPackingSlipAttachmentService\\Utilities\\CredentialManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T17:45:23.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IFSMediaAttachmentService.cs",
+              "DocumentMoniker": "C:\\Users\\GehanVelivitiya\\source\\repos\\GBPackingSlipAttachmentService\\GBPackingSlipAttachmentService\\Services\\IFSMediaAttachmentService.cs",
+              "RelativeDocumentMoniker": "GBPackingSlipAttachmentService\\Services\\IFSMediaAttachmentService.cs",
+              "ToolTip": "C:\\Users\\GehanVelivitiya\\source\\repos\\GBPackingSlipAttachmentService\\GBPackingSlipAttachmentService\\Services\\IFSMediaAttachmentService.cs",
+              "RelativeToolTip": "GBPackingSlipAttachmentService\\Services\\IFSMediaAttachmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T21:33:26.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\GehanVelivitiya\\source\\repos\\GBPackingSlipAttachmentService\\GBPackingSlipAttachmentService\\appsettings.json",
+              "RelativeDocumentMoniker": "GBPackingSlipAttachmentService\\appsettings.json",
+              "ToolTip": "C:\\Users\\GehanVelivitiya\\source\\repos\\GBPackingSlipAttachmentService\\GBPackingSlipAttachmentService\\appsettings.json",
+              "RelativeToolTip": "GBPackingSlipAttachmentService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-11T16:01:52.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProjectInstaller.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\GehanVelivitiya\\source\\repos\\GBPackingSlipAttachmentService\\GBPackingSlipAttachmentService\\ProjectInstaller.cs",
+              "RelativeDocumentMoniker": "GBPackingSlipAttachmentService\\ProjectInstaller.cs",
+              "ToolTip": "C:\\Users\\GehanVelivitiya\\source\\repos\\GBPackingSlipAttachmentService\\GBPackingSlipAttachmentService\\ProjectInstaller.cs [Design]",
+              "RelativeToolTip": "GBPackingSlipAttachmentService\\ProjectInstaller.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T22:39:19.61Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GBWindowsService.cs",
+              "DocumentMoniker": "C:\\Users\\GehanVelivitiya\\source\\repos\\GBPackingSlipAttachmentService\\GBPackingSlipAttachmentService\\GBWindowsService.cs",
+              "RelativeDocumentMoniker": "GBPackingSlipAttachmentService\\GBWindowsService.cs",
+              "ToolTip": "C:\\Users\\GehanVelivitiya\\source\\repos\\GBPackingSlipAttachmentService\\GBPackingSlipAttachmentService\\GBWindowsService.cs",
+              "RelativeToolTip": "GBPackingSlipAttachmentService\\GBWindowsService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAkwJoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T15:50:57.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IFSAuthenticationService.cs",
+              "DocumentMoniker": "C:\\Users\\GehanVelivitiya\\source\\repos\\GBPackingSlipAttachmentService\\GBPackingSlipAttachmentService\\Services\\IFSAuthenticationService.cs",
+              "RelativeDocumentMoniker": "GBPackingSlipAttachmentService\\Services\\IFSAuthenticationService.cs",
+              "ToolTip": "C:\\Users\\GehanVelivitiya\\source\\repos\\GBPackingSlipAttachmentService\\GBPackingSlipAttachmentService\\Services\\IFSAuthenticationService.cs",
+              "RelativeToolTip": "GBPackingSlipAttachmentService\\Services\\IFSAuthenticationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T19:16:54.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ICredentialManager.cs",
+              "DocumentMoniker": "C:\\Users\\GehanVelivitiya\\source\\repos\\GBPackingSlipAttachmentService\\GBPackingSlipAttachmentService\\Utilities\\ICredentialManager.cs",
+              "RelativeDocumentMoniker": "GBPackingSlipAttachmentService\\Utilities\\ICredentialManager.cs",
+              "ToolTip": "C:\\Users\\GehanVelivitiya\\source\\repos\\GBPackingSlipAttachmentService\\GBPackingSlipAttachmentService\\Utilities\\ICredentialManager.cs",
+              "RelativeToolTip": "GBPackingSlipAttachmentService\\Utilities\\ICredentialManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T20:02:13.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\GehanVelivitiya\\source\\repos\\GBPackingSlipAttachmentService\\GBPackingSlipAttachmentService\\Program.cs",
+              "RelativeDocumentMoniker": "GBPackingSlipAttachmentService\\Program.cs",
+              "ToolTip": "C:\\Users\\GehanVelivitiya\\source\\repos\\GBPackingSlipAttachmentService\\GBPackingSlipAttachmentService\\Program.cs",
+              "RelativeToolTip": "GBPackingSlipAttachmentService\\Program.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAuwCcAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T17:55:06.929Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
